@@ -54,6 +54,13 @@ body {
     width: 200;
     height: 200;
 }
+#kota1{
+    background-color: red;
+}
+
+#kota2{
+    background-color: lightgreen;
+}
 
 #quotes{
     text-align: center;
